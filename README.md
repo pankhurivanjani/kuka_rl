@@ -22,3 +22,8 @@ Machine learning implementations using OpenAI Gym and PyBullet for robotic grasp
 pip install pybullet
 pip install gym
 ```
+
+
+###Debugging link
+
+https://stackoverflow.com/questions/53135410/importerror-cannot-import-name-multiarray
